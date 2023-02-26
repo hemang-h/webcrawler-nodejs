@@ -1,5 +1,5 @@
 {
-  "name": "webcrawler",
+  "name": "web-crawler",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -19,5 +19,10 @@
   "homepage": "https://github.com/hemang-h/webcrawler-nodejs#readme",
   "devDependencies": {
     "jest": "^29.4.3"
+  },
+  "globals": {
+    "ts-jest": {
+      "isolatedModules": true
+    }
   }
 }
