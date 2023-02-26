@@ -24,5 +24,8 @@
     "ts-jest": {
       "isolatedModules": true
     }
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
   }
 }
