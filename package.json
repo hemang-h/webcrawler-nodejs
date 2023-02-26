@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemang-h/webcrawler-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemang-h/webcrawler-nodejs/issues"
+  },
+  "homepage": "https://github.com/hemang-h/webcrawler-nodejs#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
